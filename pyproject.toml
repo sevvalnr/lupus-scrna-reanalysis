@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lupus-sc"
+version = "0.1.0"
+description = "Donor-level reanalysis of a lupus PBMC single-cell RNA-seq atlas"
+requires-python = ">=3.12"
+
+[tool.setuptools.packages.find]
+where = ["src"] 

@@ -1,0 +1,8 @@
+LICENSE
+pyproject.toml
+src/lupus_sc/__init__.py
+src/lupus_sc/config.py
+src/lupus_sc.egg-info/PKG-INFO
+src/lupus_sc.egg-info/SOURCES.txt
+src/lupus_sc.egg-info/dependency_links.txt
+src/lupus_sc.egg-info/top_level.txt
