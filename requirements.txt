@@ -1,0 +1,17 @@
+# Python 3.12 (tested with 3.12.10)
+# Local analysis environment (notebooks/ and src/)
+# Exact, fully resolved versions: see requirements-lock.txt
+
+anndata==0.13.4
+scanpy==1.12.4
+pertpy[jax]==1.4.0        # scCODA requires the optional JAX backend
+pydeseq2==0.5.4
+decoupler==2.2.0
+scikit-learn==1.9.1
+pandas==3.0.6
+numpy==2.5.3
+scipy==1.18.1
+matplotlib==3.11.2
+jax==0.11.2
+pyarrow==25.0.1
+ipykernel                 # to run the notebooks

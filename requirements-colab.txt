@@ -1,0 +1,4 @@
+# Google Colab environment for scripts/build_pseudobulk_census.py
+# (Python 3.13 runtime at the time of the analysis)
+cellxgene-census==1.18.0
+anndata
