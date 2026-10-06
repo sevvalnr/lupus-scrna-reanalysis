@@ -1,0 +1,8 @@
+cell_type,n_samples,n_SLE,n_genes_tested,n_sig,n_up,n_down,n_sig_abs_lfc_gt1
+"CD4-positive, alpha-beta T cell",224,129,8112,2129,1118,1011,24
+"CD8-positive, alpha-beta T cell",224,129,7231,1388,717,671,15
+classical monocyte,224,129,8259,2099,1105,994,51
+non-classical monocyte,224,129,4160,846,465,381,33
+B cell,222,127,5576,554,323,231,13
+natural killer cell,222,127,4327,479,269,210,13
+conventional dendritic cell,222,127,2928,404,223,181,19

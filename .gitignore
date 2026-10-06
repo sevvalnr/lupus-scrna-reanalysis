@@ -1,0 +1,16 @@
+# Data: donor-level files are never committed (see data/README.md)
+data/*
+!data/README.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+# Exploratory draft notebooks (contain donor-level outputs; not published)
+drafts/
