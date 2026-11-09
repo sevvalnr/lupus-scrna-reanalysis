@@ -1,5 +1,5 @@
 # Lupus scRNA-seq Reanalysis
-
+> **Status:** Analysis complete (notebooks 01–04). Notebooks and the data-download script are being cleaned for publication (donor-level outputs removed) and will be added shortly. Summary results are already in `results/`.
 **Donor-level, confounder-aware reanalysis of a 1.26M-cell lupus PBMC single-cell atlas.**
 
 Published single-cell datasets are often reused as-is. This project asks a simple question first: *can the data be trusted for the comparison we want to make?* It then answers three biological questions about systemic lupus erythematosus (SLE) with methods that treat the **donor**, not the cell, as the unit of analysis.
